@@ -83,9 +83,9 @@ AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
 
 <div align="center">
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanarifin&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanarifin&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
 
 </div>
 
