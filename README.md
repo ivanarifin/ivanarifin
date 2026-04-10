@@ -74,7 +74,8 @@ Flappy bird-style game built from scratch in TypeScript. Because why not.
 Use Gemini CodeAssist through the OpenAI/Anthropic API interface — bypass vendor lock-in.
 
 **[🤖 Kilo Code](https://github.com/Kilo-Org/kilocode)** — Open Source Contributor  
-AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
+AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.  
+[→ View my PRs](https://github.com/Kilo-Org/kilocode/pulls?q=is%3Apr+author%3Aivanarifin)
 
 ---
 
