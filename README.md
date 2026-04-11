@@ -1,6 +1,12 @@
 <div align="center">
 
+<!-- Animated typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Fullstack+Developer;Mechanical+Engineer+turned+Coder;Builder+of+things+that+matter" alt="Typing SVG" />
+
+<br/>
+
+<!-- Animated gradient divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:6E40C9,8B5CF6,A855F7&height=80&section=header&reversal=false&animation=twinkling&text=Welcome&fontColor=ffffff&fontSize=30" alt="Header Animation" />
 
 <br/>
 
@@ -46,6 +52,55 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Animated stats cards -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true&fire=6E40C9&ring=8B5CF6)](https://git.io/streak-stats)
+
+<br/>
+
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+
+<br/>
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+<div align="center">
+
+<!-- Animated currently working on -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Building+cool+stuff+@+Loyal.id;+%E2%9A%A1+Shipping+React+Native+apps;+%F0%9F%94%A7+Learning+NestJS+%26+GraphQL;+%F0%9F%8E%AE+Working+on+Nebula-RUN" alt="Currently Working On" />
+
+</div>
+
+---
+
+## 🚀 Notable Projects
+
+<div align="center">
+
+**[🎮 Nebula-RUN](https://github.com/ivanarifin/Nebula-RUN)**  
+Flappy bird-style game built from scratch in TypeScript. Because why not.
+
+**[🔁 gemini-cli-proxy](https://github.com/ivanarifin/gemini-cli-proxy)**  
+Use Gemini CodeAssist through the OpenAI/Anthropic API interface — bypass vendor lock-in.
+
+**[🤖 Kilo Code](https://github.com/Kilo-Org/kilocode)** — Open Source Contributor  
+AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.  
+[→ View my PRs](https://github.com/Kilo-Org/kilocode/pulls?q=is%3Apr+author%3Aivanarifin)
+
+</div>
+
+---
+
 ## 📱 Apps Shipped @ Loyal.id
 
 React Native mobile apps — live on the Play Store:
@@ -65,27 +120,16 @@ React Native mobile apps — live on the Play Store:
 
 ---
 
-## 🚀 Notable Projects
-
-**[🎮 Nebula-RUN](https://github.com/ivanarifin/Nebula-RUN)**  
-Flappy bird-style game built from scratch in TypeScript. Because why not.
-
-**[🔁 gemini-cli-proxy](https://github.com/ivanarifin/gemini-cli-proxy)**  
-Use Gemini CodeAssist through the OpenAI/Anthropic API interface — bypass vendor lock-in.
-
-**[🤖 Kilo Code](https://github.com/Kilo-Org/kilocode)** — Open Source Contributor  
-AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.  
-[→ View my PRs](https://github.com/Kilo-Org/kilocode/pulls?q=is%3Apr+author%3Aivanarifin)
-
----
-
-## 📊 GitHub Stats
+## 🌟 Connect With Me
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Animated connect section -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:A855F7,6E40C9,8B5CF6&height=80&section=footer&reversal=true&animation=twinkling&text=Let's+Connect!&fontColor=ffffff&fontSize=30" alt="Footer Animation" />
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanarifin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanarifin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rarifin@gmail.com)
 
 </div>
 
@@ -94,5 +138,7 @@ AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
 <div align="center">
 
 *⚡ Debugged heavy machinery before I debugged code.*
+
+<img src="https://komarev.com/ghpvc/?username=ivanarifin&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views" />
 
 </div>
