@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Fullstack+Developer;Mechanical+Engineer+turned+Coder;Builder+of+things+that+matter" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:6E40C9:8B5CF6:A855F7&height=200&section=header&text=Ivan%20Arifin&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20|%20Mechanical%20Engineer&descAlignY=55&descAlign=55" alt="Header Banner" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanarifin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivanarifin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rarifin@gmail.com)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Fullstack+Developer;Mechanical+Engineer+turned+Coder;Builder+of+things+that+matter" alt="Typing SVG" />
 
 </div>
 
@@ -83,15 +87,34 @@ AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true&fire=6E40C9&ring=8B5CF6)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+
+[![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanarifin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rarifin@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ivanarifin&label=Profile%20Views&color=6E40C9&style=for-the-badge)
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:A855F7:8B5CF6:6E40C9&height=120&section=footer&text=Let's%20Connect!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="Footer Banner" />
 
 *⚡ Debugged heavy machinery before I debugged code.*
 
