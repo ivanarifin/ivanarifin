@@ -71,6 +71,9 @@ React Native mobile apps — live on the Play Store:
 
 ## 🚀 Notable Projects
 
+**[🌐 Portfolio](https://portfolio-coral-seven-y1wykn30mr.vercel.app)**  
+Personal portfolio site — built with Next.js & Tailwind CSS.
+
 **[🎮 Nebula-RUN](https://github.com/ivanarifin/Nebula-RUN)**  
 Flappy bird-style game built from scratch in TypeScript. Because why not.
 
