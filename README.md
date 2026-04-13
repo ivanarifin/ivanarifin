@@ -71,9 +71,6 @@ React Native mobile apps — live on the Play Store:
 
 ## 🚀 Notable Projects
 
-**[🌐 Portfolio](https://portfolio-coral-seven-y1wykn30mr.vercel.app)**  
-Personal portfolio site — built with Next.js & Tailwind CSS.
-
 **[🎮 Nebula-RUN](https://github.com/ivanarifin/Nebula-RUN)**  
 Flappy bird-style game built from scratch in TypeScript. Because why not.
 
@@ -106,6 +103,7 @@ AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-coral-seven-y1wykn30mr.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanarifin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.rarifin@gmail.com)
 
