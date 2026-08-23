@@ -83,17 +83,20 @@ AI coding agent. #1 on OpenRouter · 1M+ users · 20T+ tokens processed.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ivanarifin&theme=tokyonight&hide_border=true&fire=6E40C9&ring=8B5CF6)](https://git.io/streak-stats)
+<a href="https://github.com/ivanarifin"><img src="./profile/streak.svg" alt="GitHub contribution streak" /></a>
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanarifin&theme=tokyonight" alt="Top languages by repository" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanarifin&theme=tokyonight" alt="Top languages by commit" /></td>
+  </tr>
+</table>
 
-[![Most Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanarifin&theme=tokyonight)](https://github.com/ivanarifin)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanarifin&theme=tokyonight" alt="GitHub profile activity details" />
 
 </div>
 
